@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I am Comfyy
 
-<!--
-**comfyyy/comfyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Infernos Host
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate on nothing, i like to work alone
+- 🤔 I’m looking for help with JS would be nice 
+- 💬 Ask me about anything
+- 📫 How to reach me: comfyy@infernoshost.xyz, me@comfyy.eu.org, comfyy#4663 on Discord
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: i am epiccccc
 
-Here are some ideas to get you started:
+![comfyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=comfyyy&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
