@@ -10,5 +10,5 @@
 - ⚡ Fun fact: i am epiccccc
 
 ![comfyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=comfyyy&show_icons=true&theme=radical)
-https://discord.c99.nl/widget/theme-3/767238760248901676.png
+<a href="#"><img src="https://discord.c99.nl/widget/theme-3/767238760248901676.png" /></a
 
