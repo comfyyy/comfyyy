@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on nothing, i like to work alone
 - 🤔 I’m looking for help with JS would be nice 
 - 💬 Ask me about anything
-- 📫 How to reach me: comfyy@infernoshost.xyz, me@comfyy.eu.org, comfyy#4663 on Discord
+- 📫 How to reach me: comfyy@infernoshost.com, me@comfyy.eu.org, comfyy#4663 on Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i am epiccccc
 
